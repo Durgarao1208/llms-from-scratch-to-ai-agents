@@ -1,4 +1,4 @@
-# Chapter 4: Machine Learning
+# Chapter 1.4: Machine Learning
 
 ## Learning Objectives
 
@@ -658,7 +658,7 @@ This approach enabled AI systems to handle increasingly complex problems and lai
 
 ---
 
-## Preview of Chapter 5
+## Preview of Chapter 1.5
 
 In the next chapter, we will explore Deep Learning.
 

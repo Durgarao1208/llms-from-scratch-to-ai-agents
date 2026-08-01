@@ -1,4 +1,4 @@
-# Chapter 1: What Is Intelligence?
+# Chapter 1.1: What Is Intelligence?
 
 ## Learning Objectives
 
@@ -514,7 +514,7 @@ This understanding provides the conceptual foundation for the rest of the book.
 
 ---
 
-# Preview of Chapter 2
+# Preview of Chapter 1.2
 
 In the next chapter, we will explore the complete history of Artificial Intelligence.
 

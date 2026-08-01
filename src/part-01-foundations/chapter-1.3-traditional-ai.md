@@ -1,4 +1,4 @@
-# Chapter 3: Traditional AI and Symbolic Systems
+# Chapter 1.3: Traditional AI and Symbolic Systems
 
 ## Learning Objectives
 
@@ -656,7 +656,7 @@ That question gave birth to Machine Learning.
 
 ---
 
-## Preview of Chapter 4
+## Preview of Chapter 1.4
 
 In the next chapter, we will explore Machine Learning.
 

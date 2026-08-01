@@ -1,4 +1,4 @@
-# Chapter 5: Deep Learning
+# Chapter 1.5: Deep Learning
 
 ## Learning Objectives
 
@@ -685,7 +685,7 @@ Deep Learning is the technological bridge between classical Machine Learning and
 
 ---
 
-## Preview of Chapter 6
+## Preview of Chapter 1.6
 
 In the next chapter, we will answer a critical question:
 

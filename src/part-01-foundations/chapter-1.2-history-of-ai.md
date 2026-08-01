@@ -1,4 +1,4 @@
-# Chapter 2: History of Artificial Intelligence
+# Chapter 1.2: History of Artificial Intelligence
 
 ## Learning Objectives
 
@@ -594,7 +594,7 @@ In the next chapter, we will examine the first major AI approach in detail: Symb
 
 ---
 
-## Preview of Chapter 3
+## Preview of Chapter 1.3
 
 In Chapter 3, we will learn:
 

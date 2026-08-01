@@ -1,4 +1,4 @@
-# Chapter 6: Why Deep Learning Changed Everything
+# Chapter 1.6: Why Deep Learning Changed Everything
 
 ## Learning Objectives
 
