@@ -9,8 +9,8 @@ src = "src"
 build-dir = "book"
 
 [output.html]
-default-theme = "navy"
-preferred-dark-theme = "navy"
+default-theme = "coal"
+preferred-dark-theme = "coal"
 no-section-label = true
 git-repository-url = "https://github.com/Durgarao1208/llms-from-scratch-to-ai-agents"
 edit-url-template = "https://github.com/Durgarao1208/llms-from-scratch-to-ai-agents/edit/master/{path}"
