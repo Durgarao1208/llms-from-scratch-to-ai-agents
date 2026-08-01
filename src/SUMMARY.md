@@ -10,6 +10,7 @@
 * [1.5) Deep Learning](part-01-foundations/chapter-1.5-deep-learning.md)
 * [1.6) Why Deep Learning Changed Everything](part-01-foundations/chapter-1.6-why-deep-learning-changed-everything.md)
 
+
 ---
 
 # Part II - Mathematics
@@ -22,9 +23,17 @@
 * [2.6) Probability for Machine Learning](part-02-mathematics/chapter-2.6-probability-for-machine-learning.md)
 * [2.7) Statistics for AI](part-02-mathematics/chapter-2.7-statistics-for-ai.md)
 
+
+
+---
+
+
 # Part III - Neural Networks
 
 * [Biological Neurons](part-03-neural-networks/chapter-19-biological-neurons.md)
+
+
+---
 
 # Part IV - NLP
 
