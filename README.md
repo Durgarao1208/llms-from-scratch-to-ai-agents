@@ -311,3 +311,6 @@ This textbook draws inspiration from:
 ## Long-Term Goal
 
 To create one of the most comprehensive and practical learning resources for software engineers who want to understand modern AI systems from first principles and build production-grade AI applications with confidence.
+
+Book : https://durgarao1208.github.io/llms-from-scratch-to-ai-agents
+
