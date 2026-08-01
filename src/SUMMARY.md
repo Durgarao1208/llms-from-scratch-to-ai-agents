@@ -35,7 +35,7 @@
 
 ---
 
-# Part IV - NLP
+<!-- # Part IV - NLP
 
 * [Language](part-04-natural-language-processing/chapter-28-language.md)
 
@@ -69,4 +69,4 @@
 
 # Part XII - Projects
 
-* [Tokenizer Project](part-12-projects/project-01-tokenizer.md)
+* [Tokenizer Project](part-12-projects/project-01-tokenizer.md) -->
