@@ -1,8 +1,5 @@
 # Summary
-
-# Introduction
-
-* [Welcome](introduction.md)
+---
 
 # Part I - Foundations
 
@@ -12,6 +9,8 @@
 * [Machine Learning](part-01-foundations/chapter-04-machine-learning.md)
 * [Deep Learning](part-01-foundations/chapter-05-deep-learning.md)
 * [Why Deep Learning Changed Everything](part-01-foundations/chapter-06-why-deep-learning-changed-everything.md)
+
+---
 
 # Part II - Mathematics
 
