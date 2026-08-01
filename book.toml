@@ -3,7 +3,6 @@ title = "LLMs from Scratch to AI Agents"
 authors = ["Durgarao P."]
 description = "A complete AI textbook for Java developers"
 language = "en"
-multilingual = false
 src = "src"
 
 [build]
