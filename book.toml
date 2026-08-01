@@ -1,4 +1,26 @@
 [book]
-title = "llms-from-scratch-to-ai-agents"
-authors = ["Durgarao1208"]
+title = "LLMs from Scratch to AI Agents"
+authors = ["Durgarao P."]
+description = "A complete AI textbook for Java developers"
 language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/Durgarao1208/llms-from-scratch-to-ai-agents"
+edit-url-template = "https://github.com/Durgarao1208/llms-from-scratch-to-ai-agents/edit/main/{path}"
+
+[output.html.search]
+enable = true
+
+[output.html.print]
+enable = true
+
+[output.html.fold]
+enable = true
+level = 1
