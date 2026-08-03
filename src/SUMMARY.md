@@ -30,8 +30,18 @@
 
 # Part III - Neural Networks
 
-* [Biological Neurons](part-03-neural-networks/chapter-19-biological-neurons.md)
+* [3.0 Visual Roadmap](part-03-neural-networks/3.0-visual-roadmap.md)
 
+* [3.1 Biological Neurons](part-03-neural-networks/3.1-biological-neurons.md)
+* [3.2 Artificial Neurons](part-03-neural-networks/3.2-artificial-neurons.md)
+* [3.3 Perceptrons](part-03-neural-networks/3.3-perceptrons.md)
+* [3.4 Activation Functions](part-03-neural-networks/3.4-activation-functions.md)
+* [3.5 Forward Propagation](part-03-neural-networks/3.5-forward-propagation.md)
+* [3.6 Loss Functions](part-03-neural-networks/3.6-loss-functions.md)
+* [3.7 Gradient Descent](part-03-neural-networks/3.7-gradient-descent.md)
+* [3.8 Backpropagation](part-03-neural-networks/3.8-backpropagation.md)
+* [3.9 Deep Neural Networks](part-03-neural-networks/3.9-deep-neural-networks.md)
+* [3.10 Overfitting and Regularization](part-03-neural-networks/3.10-overfitting-and-regularization.md)
 
 ---
 
